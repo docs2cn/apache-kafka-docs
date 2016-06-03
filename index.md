@@ -23,7 +23,7 @@ guarantee          | 保证
 
 ### 1.1 简介
 
-Kafka是一哥分布式的、分区的（partitioned）、复制提交（replicated commit）的日志服务。它提供了常用的消息系统的功能集，但是它的设计更加独特。
+Kafka是一个分布式的、分区的（partitioned）、复制提交（replicated commit）的日志服务。它提供了常用的消息系统的功能集，但是它的设计更加独特。
 
 这是什么意思呢？
 
